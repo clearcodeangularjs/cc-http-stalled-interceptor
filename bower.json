@@ -2,7 +2,7 @@
   "name": "http-stalledReq-interceptor",
   "description": "Interceptor for sending stalled requests.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "interceptor.js",
