@@ -19,7 +19,7 @@
     along with cc-stalledRequest-interceptor.  If not, see <http://www.gnu.org/licenses/>.
 
 */
-      angular.module('cc.http.stalledInterceptor').factory('stalledReqInterceptor', [
+      angular.module('cc.http.stalledInterceptor', []).factory('stalledReqInterceptor', [
         '$q',
         '$rootScope',
         '$timeout',
