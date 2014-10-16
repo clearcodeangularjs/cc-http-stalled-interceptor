@@ -3,7 +3,7 @@ Clearcode Stalled interceptor
 
 Interceptor that fires event when request takes too long to load.
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-http-stalled-interceptor --save ```
 
 
 Usage
