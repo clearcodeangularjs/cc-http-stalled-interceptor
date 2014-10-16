@@ -1,5 +1,5 @@
 {
-	"name": "http-stalledReq-interceptor",
+	"name": "cc-http-stalled-interceptor",
 	"description": "Interceptor for sending stalled requests.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
